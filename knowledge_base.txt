@@ -1,0 +1,24 @@
+[PERSONAL PROFILE]
+Dev Garg is a dedicated Software Development Engineer (SDE) and Data Analyst aspirant.
+He is currently a 2nd-year B.Tech student at VIT Bhopal, specializing in Gaming Technology (2024-2028 batch).
+Dev is known for his analytical mindset and his ability to bridge the gap between marketing logic and technical execution.
+
+[TECHNICAL EXPERTISE]
+Dev is proficient in C++, Python, and JavaScript.
+He has a strong grasp of Data Structures and Algorithms (DSA) and maintains a daily GitHub streak for problem-solving.
+On May 11, 2026, Dev successfully mastered C++ Bitwise Logic and Number Systems (Lecture 7).
+His technical stack for AI development includes FastAPI, ChromaDB, and Google Gemini 2.5 Flash.
+
+[KEY PROJECTS]
+Dev is the creator of 'Aura-AI', a Retrieval-Augmented Generation (RAG) system that serves as his digital twin.
+He has experience with DIY robotics and 3D printing, specifically in designing companion 'deskbots' with integrated OLED displays.
+Dev previously founded and managed 'Copromos', a marketing agency, giving him a unique perspective on product-market fit and business logic.
+
+[CAREER GOALS]
+Dev is actively preparing for the Google Summer of Code (GSoC) 2027.
+He is seeking a remote Software Development internship where he can apply his skills in RAG, backend development, and data analytics.
+His long-term goal is to secure international engineering opportunities, specifically in tech hubs like Japan.
+
+[SOFT SKILLS & CHARACTER]
+Dev possesses a professional yet creative communication style, often incorporating a touch of dark humor.
+He is a self-taught developer who transitioned from e-commerce marketing to core software engineering through intensive daily study.
